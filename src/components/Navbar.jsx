@@ -31,12 +31,12 @@ function Navbar() {
         </li>
         <li>
           <Link to="about" smooth={true} duration={500}>
-            A propos
+            À propos
           </Link>
         </li>
         <li>
           <Link to="skills" smooth={true} duration={500}>
-            Competences
+            Compétences
           </Link>
         </li>
         <li>
@@ -72,13 +72,13 @@ function Navbar() {
         <li className="py-6 text-4xl">
           {' '}
           <Link onClick={handleClick} to="about" smooth={true} duration={500}>
-            A propos
+            À propos
           </Link>
         </li>
         <li className="py-6 text-4xl">
           {' '}
           <Link onClick={handleClick} to="skills" smooth={true} duration={500}>
-            Competences
+            Compétences
           </Link>
         </li>
         <li className="py-6 text-4xl">

@@ -7,7 +7,7 @@ const About = () => {
         <div className="max-w-[1000px] w-full grid grid-cols-2 gap-8">
           <div className="sm:text-right pb-8 pl-4">
             <p className="text-4xl font-bold inline border-b-4 border-[#1af8ae]">
-              A propos
+              À propos
             </p>
           </div>
           <div></div>
@@ -15,19 +15,18 @@ const About = () => {
         <div className="max-w-[1000px] w-full grid sm:grid-cols-2 gap-8 px-4">
           <div className="sm:text-right text-4xl font-bold">
             <p>
-              A la quete de Simplicite dans le complexe: <br /> 'Finding Signal
-              from noise'
+              À la quête de la Simplicité dans la complexité : <br />{' '}
+              <a className="text-[#1af8ae]">"Finding Signal from noise"</a>
             </p>
           </div>
           <div>
             <p>
-              Je suis passionne par construire des projects qui ameliore la vie
-              des gens qui m'entoure. Parcours entrepreneurial et desire
-              permanant de creer des solutions aux probleme reels du monde grace
-              a la Tech, j'ai une vision long terme de ce que j'entreprend. Rome
-              ne s'est pas construit en un jour. Passion et devouement vous mene
-              toujours la ou voulez arriver. Et vous, que creeriez vous si vous
-              aviez un developpeur entre vos mains ?
+              Je suis passionné par les projets qui améliorent le quotidien des
+              personnes qui nous entourent. De mon expérience entrepreneuriale à
+              ma passion pour le développement web, j'ai une vision tournée vers
+              la Simplicité, extraite de cette complexité que cela demande pour
+              créer de vraies solutions viables. Et vous, que simplifieriez-vous
+              si vous aviez un développeur entre vos mains ?
             </p>
           </div>
         </div>

@@ -15,10 +15,10 @@ const Home = () => {
           Developpeur ReactJs
         </h2>
         <p className="text-[#8892b0] py-4 max-w-[700px]">
-          Je suis un developpeur full stack specialise dans la creation de
-          project ReactJs. En ce moment, je construit un project integrant de
-          l'intelligence Artificielle au service l'experience utilisateur.
-          (Comme sur Netflix haha)
+          Je suis un développeur full stack basé à Paris et spécialisé dans la
+          création d'application web ReactJS. En ce moment, je construis un
+          projet intégrant de l'intelligence Artificielle au service de
+          l'expérience utilisateur.
         </p>
         <div>
           <button className="text-white group border-2 px-6 py-3 my-2 flex items-center hover:bg-[#1af8ae] hover:border-[#1af8ae]">
